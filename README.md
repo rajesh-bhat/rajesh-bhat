@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Rajesh Shreedhar Bhat
-- 🔭 Currently working at Walmart Global Tech India, building Computer Vision applications for Walmart stores. 
+- 🔭 Currently working at Walmart Global Tech, building Computer Vision applications for Walmart stores. 
 - 🌱 Area of interest: Computer Vision, NLP, Model Interpretability & distillation. 
 - 📫 Email id: rsbhat@asu.edu
 
